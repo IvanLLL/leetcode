@@ -1,0 +1,12 @@
+[I 12:12:00.764 NotebookApp] Serving notebooks from local directory: /Users/liangshuxian/leetcode
+[I 12:12:00.765 NotebookApp] 0 active kernels 
+[I 12:12:00.765 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=d2ea8b195174df3f6e7d4f2da138ca21a314717b044c0a64
+[I 12:12:00.765 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:12:00.766 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d2ea8b195174df3f6e7d4f2da138ca21a314717b044c0a64
+[I 12:12:01.294 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 12:12:05.855 NotebookApp] 404 GET /api/kernels/1bf7125c-2b6a-42f0-b60d-8e3a8d74eab4/channels?session_id=9DE27E7324834E4B86182CF989CC1591 (::1): Kernel does not exist: 1bf7125c-2b6a-42f0-b60d-8e3a8d74eab4
+[W 12:12:05.862 NotebookApp] 404 GET /api/kernels/1bf7125c-2b6a-42f0-b60d-8e3a8d74eab4/channels?session_id=9DE27E7324834E4B86182CF989CC1591 (::1) 16.59ms referer=None
