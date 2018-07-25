@@ -1,0 +1,7 @@
+### (RNN)
+
+- RNN
+- LSTM
+- GRU
+
+
